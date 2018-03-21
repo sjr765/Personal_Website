@@ -1,0 +1,42 @@
+html{
+    background:url(images/background.jpg) no-repeat center fixed;
+    background-size:cover;
+    font-family: Calibri;
+}
+
+h1{
+    text-align: center;
+    text-decoration:none;
+    color: azure;
+}
+
+h2{
+    color: azure;
+    font-weight: 100;
+    text-align: left;
+}
+
+h3{
+    color: azure;
+    font-weight: 100;
+}
+
+#tab{
+    text-indent: 50px;
+}
+
+nav{
+    list-style-type: none;
+    background-color: rgb(118, 123, 158);
+    text-align: center;
+    margin-right: 340px;
+    margin-left: 340px;
+    
+}
+
+a{
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+html{
+   background-color: rgb(20, 20, 28);
+    background-size:cover;
+    font-family: Calibri;
+}
+
+
+.centerpic{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
