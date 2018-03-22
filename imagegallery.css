@@ -1,22 +1,28 @@
 html{
-    background:url(images/background.jpg) no-repeat center fixed;
+    background-color: rgb(123, 238, 156);
     background-size:cover;
-    font-family: Calibri;
+    font-family: Candara;
+    text-decoration-color: 
 }
 
+nav{
+    list-style-type: none;
+    background-color: rgb(16, 45, 109);
+    text-align: center;
+    margin-right: 340px;
+    margin-left: 340px; 
+    color: rgb(123, 238, 156);
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto; 
+    margin-top: -8px;
+}
 h1{
     text-align: center;
     text-decoration:none;
     color: azure;
 }
 
-nav{
-    list-style-type: none;
-    background-color: rgb(118, 123, 158);
-    text-align: center;
-    margin-right: 600px;
-    margin-left: 600px;    
-}
 
 a{
     color: white;

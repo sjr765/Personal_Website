@@ -5,6 +5,30 @@ html{
     text-decoration-color: 
 }
 
+nav{
+    list-style-type: none;
+    background-color: rgb(16, 45, 109);
+    text-align: center;
+    margin-right: 340px;
+    margin-left: 340px; 
+    color: rgb(123, 238, 156);
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto; 
+    margin-top: -8px;
+}
+
+a {
+    color: rgb(123, 238, 156);
+    text-decoration: none;  
+}
+
+
+a:hover { 
+    color: white;
+}
+
+
 h1{
     text-align: center;
     text-decoration:none;
@@ -23,28 +47,15 @@ h3{
 }
 
 
-
-nav{
-    list-style-type: none;
-    background-color: rgb(16, 45, 109);
-    text-align: center;
-    margin-right: 340px;
-    margin-left: 340px; 
-    color: rgb(123, 238, 156);
-    text-decoration: none;  
-
-
-}
-
-a {
-    color: rgb(123, 238, 156);
-    text-decoration: none;  
-}
-
 .images{
     color: white;
     padding: 14px 16px;
     text-decoration: none;
     text-align: center;
-    margin: 500px;
+
+}
+
+.aboutmetext{
+    height: auto;
+    width: 800px;
 }
