@@ -46,16 +46,25 @@ h3{
     font-weight: 100;
 }
 
+#textcontainer{
+    height: auto;
+    width: 700px;
+    margin-left: 60px;
+    margin-right: -15px;
+    margin-bottom: -60px;
+    
+}
+
+
+
+.imagecontainer{
+    margin-top: 60px;
+}
 
 .images{
-    color: white;
     padding: 14px 16px;
-    text-decoration: none;
-    text-align: center;
-
+    margin-left: 60px;
+    margin-top: 40px;
 }
 
-.aboutmetext{
-    height: auto;
-    width: 800px;
-}
+

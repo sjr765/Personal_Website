@@ -1,12 +1,15 @@
 html{
-   background-color: rgb(20, 20, 28);
+    background-color: rgb(123, 238, 156);
     background-size:cover;
-    font-family: Calibri;
+    font-family: Candara;
 }
 
-
-.centerpic{
+a{
     position: absolute;
-    top: 30%;
-    left: 35%;
+    top: 40%;
+    left: 40%;
+    font-size: 150px;
+    color: rgb(16, 45, 109);
+    text-decoration: none;
+
 }

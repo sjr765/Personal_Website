@@ -2,7 +2,6 @@ html{
     background-color: rgb(123, 238, 156);
     background-size:cover;
     font-family: Candara;
-    text-decoration-color: 
 }
 
 nav{
@@ -20,15 +19,17 @@ nav{
 h1{
     text-align: center;
     text-decoration:none;
-    color: azure;
+    color: rgb(16, 45, 109);
+}
+
+a {
+    color: rgb(123, 238, 156);
+    text-decoration: none;  
 }
 
 
-a{
+a:hover { 
     color: white;
-    padding: 14px 16px;
-    text-decoration: none;
-    text-align: center;
 }
 
 .container{
