@@ -1,0 +1,59 @@
+html{
+    background-color: rgb(123, 238, 156);
+    background-size:cover;
+    font-family: Candara;
+    text-decoration-color: 
+}
+
+nav{
+    list-style-type: none;
+    background-color: rgb(16, 45, 109);
+    text-align: center;
+    margin-right: 340px;
+    margin-left: 340px; 
+    color: rgb(123, 238, 156);
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto; 
+    margin-top: -8px;
+}
+
+a {
+    color: rgb(123, 238, 156);
+    text-decoration: none;  
+}
+
+
+a:hover { 
+    color: white;
+}
+
+
+h1{
+    text-align: center;
+    text-decoration:none;
+    color: rgb(16, 45, 109);
+}
+
+
+#textcontainer{
+    height: auto;
+    width: 300px;
+    margin-left: 748px;
+    margin-top: -70px
+    
+}
+
+#textcontainer:any-link{
+    color: rgb(16, 45, 109);
+}
+
+h3{
+    color: rgb(16, 45, 109);
+    font-weight: 1000;
+}
+
+.links{
+        color: rgb(16, 45, 109)
+}
+
