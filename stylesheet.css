@@ -1,42 +1,50 @@
 html{
-    background:url(images/background.jpg) no-repeat center fixed;
+    background-color: rgb(123, 238, 156);
     background-size:cover;
-    font-family: Calibri;
+    font-family: Candara;
+    text-decoration-color: 
 }
 
 h1{
     text-align: center;
     text-decoration:none;
-    color: azure;
+    color: rgb(16, 45, 109);
 }
 
 h2{
-    color: azure;
+    color: rgb(16, 45, 109);
     font-weight: 100;
     text-align: left;
 }
 
 h3{
-    color: azure;
+    color: rgb(16, 45, 109);
     font-weight: 100;
 }
 
-#tab{
-    text-indent: 50px;
-}
+
 
 nav{
     list-style-type: none;
-    background-color: rgb(118, 123, 158);
+    background-color: rgb(16, 45, 109);
     text-align: center;
     margin-right: 340px;
-    margin-left: 340px;
-    
+    margin-left: 340px; 
+    color: rgb(123, 238, 156);
+    text-decoration: none;  
+
+
 }
 
-a{
+a {
+    color: rgb(123, 238, 156);
+    text-decoration: none;  
+}
+
+.images{
     color: white;
     padding: 14px 16px;
     text-decoration: none;
     text-align: center;
+    margin: 500px;
 }
