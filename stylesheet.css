@@ -57,6 +57,111 @@ h3{
     font-weight: 100;
 }
 
+@media only screen 
+  and (max-width: 450px)
+  and (max-width: 600px)
+  and (max-device-width: 1200px) {
+        h1{
+            display: block;
+        }
+        h2{
+            display: block;
+
+        }
+        h3{
+            display: block;
+        }
+        a{
+            display: block;
+        }
+        
+        nav{
+            display: block;
+        }
+        
+        #textcontainer{
+            display: block;
+        }
+        
+        #imagecontainer{
+            display: block;
+        }
+        
+        .picone{
+            display: block;
+        }
+        .pictwo{
+            display: block;
+        }
+        .picthree{
+            display: block;
+        }
+        .picfour{
+            display: block;
+        }
+        .picfive{
+            display: block;
+        }
+        
+        .picsix{
+            display: block;
+        }
+        
+        .picseven{
+            display: block;
+        }
+        
+        .piceight{
+            display: block;
+        }
+        
+        .picnine{
+            display: block;
+        }
+}
+
+
+@media screen and (max-width: 450px){
+    
+    .h1{
+            display: block;
+        }
+        .h2{
+            display: block;
+
+        }
+        .h3{
+            display: block;
+        }
+        .a{
+            display: block;
+        }
+        .nav{
+            display: block;
+        }
+    
+}
+
+@media screen and (max-width: 120px){
+    
+    .h1{
+            display: block;
+        }
+        .h2{
+            display: block;
+
+        }
+        .h3{
+            display: block;
+        }
+        .a{
+            display: block;
+        }
+        .nav{
+            display: block;
+        }
+}
+
 /*ABOUT ME STARTS HERE*/
 #textcontainer{
     height: auto;
